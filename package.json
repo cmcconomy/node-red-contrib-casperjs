@@ -1,0 +1,22 @@
+{
+  "name": "node-red-contrib-phantomjs",
+  "version": "0.0.1",
+  "description": "PhantomJS Node for Node-Red",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmcconomy/node-red-contrib-phantomjs.git"
+  },
+  "author": "Craig McConomy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmcconomy/node-red-contrib-phantomjs/issues"
+  },
+  "homepage": "https://github.com/cmcconomy/node-red-contrib-phantomjs#readme",
+  "dependencies": {
+    "phantomjs-prebuilt": "^2.1.14"
+  }
+}
