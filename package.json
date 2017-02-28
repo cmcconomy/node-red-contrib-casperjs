@@ -1,22 +1,22 @@
 {
-  "name": "node-red-contrib-phantomjs",
+  "name": "node-red-contrib-casperjs",
   "version": "0.0.1",
-  "description": "PhantomJS Node for Node-Red",
+  "description": "CasperJS Node for Node-Red",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cmcconomy/node-red-contrib-phantomjs.git"
+    "url": "git+https://github.com/cmcconomy/node-red-contrib-casperjs.git"
   },
   "author": "Craig McConomy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cmcconomy/node-red-contrib-phantomjs/issues"
+    "url": "https://github.com/cmcconomy/node-red-contrib-casperjs/issues"
   },
-  "homepage": "https://github.com/cmcconomy/node-red-contrib-phantomjs#readme",
+  "homepage": "https://github.com/cmcconomy/node-red-contrib-casperjs#readme",
   "dependencies": {
-    "phantomjs-prebuilt": "^2.1.14"
+    "casperjs": "1.1.3"
   }
 }
